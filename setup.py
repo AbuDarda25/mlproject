@@ -22,16 +22,19 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
 name = 'MLProject',
-version='0.0.1',
-author='AbuDarda',
-author_email='abudarda0025@gmail.com',
-package=find_packages(),
-# install_requires=['pandas','numpy','seaborn','matplotlib.pyplot']
-install_requires=get_requirements('requirement.txt')
-
+version = '0.0.1',
+author = 'AbuDarda',
+author_email = 'abudarda0025@gmail.com',
+package = find_packages(),
+# install_requires = ['pandas','numpy','seaborn','matplotlib.pyplot']
+install_requires = get_requirements('requirement.txt')
 )
 
 
 
-# git push -u origin main
+
+
+
+
+
 
