@@ -81,7 +81,8 @@ profile_default/
 ipython_config.py
 
 # Environments
-.artifacts
+# ML artifacts
+artifacts/
 .env
 .envrc
 .venv
