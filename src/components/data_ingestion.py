@@ -65,6 +65,11 @@ if __name__=="__main__":
 
 
     
+# To run data ingestion in conda environments use this in vs code 
+# python -m src.components.data_ingestion
+
+# To remove things from git before commit and after git add .
+# git rm -r --cached catboost_info
 
 
 
