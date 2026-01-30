@@ -71,8 +71,9 @@ if __name__=="__main__":
 # To remove things from git before commit and after git add .
 # git rm -r --cached catboost_info
 
-
-
+# To acvtivate Anacodna
+# D:/Anaconda/Scripts/activate
+# conda activate D:\Krish_DataScience\MLProject\venv
 
 
 
